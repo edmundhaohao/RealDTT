@@ -11,7 +11,6 @@ This dataset is designed for tampered text image research.
 - **Size**: 399,592.
 - **Format**: JPEG & PNG.
 
-#:tada: We are progressively uploading our dataset to HuggingFace:hugs:, and the download links will be made publicly available shortly.
 The RealDTT dataset is now avaliable at [BaiduDrive](https://pan.baidu.com/s/1eZLMYkdkIOpehMoZST3gyQ).
 
 The RealDTT dataset is only available for non-commercial use, you can request a password for it by sending an email with education email to hao.sun@cripac.ia.ac.cn explaining the purpose.
